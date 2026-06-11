@@ -39,3 +39,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 >>>>>>> fd0a21d (first commit)
+
+local only database is Because:
+- Data base is using PostgreSQL database 
+- Using Prisma 
